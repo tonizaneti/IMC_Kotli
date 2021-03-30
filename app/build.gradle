@@ -10,7 +10,7 @@ android {
 
     defaultConfig {
         applicationId "com.studiozaneti.calculo_imc_3"
-        minSdkVersion 16
+        minSdkVersion 24
         targetSdkVersion 30
         versionCode 1
         versionName "1.0"
